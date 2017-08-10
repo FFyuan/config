@@ -1,0 +1,21 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="evlsprt3.171" value="11" />
+    <property name="RubyMine.full.reindex.required" value="1" />
+    <property name="RubyMine.dumbRunEnabled" value="true" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.gist.reindex.count" value="965" />
+    <property name="ideavim.statistics.timestamp" value="1501705112758" />
+    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
+    <property name="FileTemplates.SelectedTemplate" value="HAML" />
+    <property name="rails.run.generators.popup.search.mask" value="" />
+    <property name="PLUGIN_FILTER" value="line" />
+    <property name="$USER_HOME$/.rbenv/versions/2.2.3/bin/ruby:BASE_20" value="0.2.2.beta9" />
+    <property name="$USER_HOME$/.rbenv/versions/2.2.3/bin/ruby:IDE" value="0.6.1.beta4" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+  </component>
+</application>

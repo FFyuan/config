@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.ra</mask>
+      <mask>*.r</mask>
+      <mask>*_</mask>
+      <mask>*_sp</mask>
+      <mask>*_spe</mask>
+      <mask>*_spec</mask>
+      <mask>*_spec.</mask>
+      <mask>*_spec.r</mask>
+      <mask>*_spec.rb</mask>
+      <mask>.rb</mask>
+      <mask>*.srb</mask>
+      <mask>*.sprb</mask>
+      <mask>*.sperb</mask>
+      <mask>*.specrb</mask>
+      <mask>*.spec.rb</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.co</mask>
+      <mask>*.cof</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
+      <mask>*</mask>
+      <mask>*.rb</mask>
+      <mask>*s.rb</mask>
+      <mask>*sp.rb</mask>
+      <mask>*spe.rb</mask>
+      <mask>*spec.rb.rb</mask>
+      <mask>*spec.rb.r</mask>
+      <mask>*spec.rb.</mask>
+      <mask>*spec.rb</mask>
+    </recentFileMasks>
+  </component>
+</application>

@@ -1,0 +1,479 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/lib/tasks/merchants.rake" timestamp="1500666342903">
+        <mark key="'" line="331" column="56" />
+        <mark key="[" line="334" column="36" />
+        <mark key="]" line="334" column="42" />
+        <mark key="." line="334" column="42" />
+        <mark key="^" line="334" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/assets/javascripts/admin/_pagination_per_page_selector.js.coffee" timestamp="1499451726567">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/FirstRails/blog/db/migrate/20170606150041_create_articles.rb" timestamp="1496761591787">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-revproc/Gemfile" timestamp="1501100464550">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/.service.yml" timestamp="1501088430775">
+        <mark key="]" line="1" column="36" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="1" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/views/admin/_navbar.html.erb" timestamp="1500585503097">
+        <mark key="[" line="40" column="45" />
+        <mark key="]" line="40" column="37" />
+        <mark key="^" line="40" column="37" />
+        <mark key="." line="40" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/config/application.rb" timestamp="1499902355640">
+        <mark key="[" line="91" column="41" />
+        <mark key="]" line="92" column="61" />
+        <mark key="^" line="92" column="61" />
+        <mark key="." line="92" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/FirstRails/blog/app/views/welcome/index.html.erb" timestamp="1496762766955">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="48" />
+        <mark key="^" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/views/admin/redirect_rules/_select-per-page.html.haml" timestamp="1499274980441">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="63" />
+        <mark key="^" line="1" column="63" />
+        <mark key="." line="1" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/config/deploy/staging.rb" timestamp="1499454825706">
+        <mark key="[" line="9" column="60" />
+        <mark key="]" line="9" column="63" />
+        <mark key="^" line="9" column="63" />
+        <mark key="." line="9" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/views/admin/_selector_per_page.html.haml" timestamp="1499445018249">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="102" />
+        <mark key="^" line="1" column="102" />
+        <mark key="." line="1" column="102" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/views/admin/merchants/update_titles.html.haml" timestamp="1500584975579">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+      </file>
+      <file name="$USER_HOME$/RubymineProjects/untitled/item.rb" timestamp="1497487872915">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/db/migrate/20170606203513_create_redirect_rules.rb" timestamp="1500313968141">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/db/schema.rb" timestamp="1500319877970">
+        <mark key="[" line="995" column="2" />
+        <mark key="]" line="995" column="2" />
+        <mark key="^" line="995" column="74" />
+        <mark key="." line="995" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/views/admin/merchants/index.html.haml" timestamp="1500584226601">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/models/redirect_rule.rb" timestamp="1501088741539">
+        <mark key="[" line="72" column="26" />
+        <mark key="]" line="73" column="3" />
+        <mark key="." line="73" column="3" />
+        <mark key="^" line="73" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/FirstRails/blog/app/views/articles/index.html.erb" timestamp="1496767237541">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="18" column="65" />
+        <mark key="^" line="18" column="65" />
+        <mark key="." line="18" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/assets/javascripts/admin/redirect_rules.js.coffee" timestamp="1499374658062">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/FirstRails/blog/app/views/articles/show.html.erb" timestamp="1496773247484">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/db/migrate/20170717164905_create_redirect_rule_blacklists.rb" timestamp="1500313982904">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/views/admin/redirect_rules/edit.html.haml" timestamp="1500500181677">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/spec/data/merchant_update_titles.csv" timestamp="1501713231593">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-revproc/Capfile" timestamp="1501102899663">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="66" column="17" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/lib/tasks/redirect_rules.rake" timestamp="1500586418020">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/assets/javascripts/admin/utils/perPageSelect.js.coffee" timestamp="1499442392381">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/views/admin/redirect_rules/_select_per_page.html.haml" timestamp="1499445012089">
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="1" column="80" />
+        <mark key="^" line="1" column="80" />
+        <mark key="." line="1" column="80" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/spec/controllers/admin/redirect_rules_controller_spec.rb" timestamp="1501711640890">
+        <mark key="[" line="17" column="72" />
+        <mark key="]" line="17" column="72" />
+        <mark key="." line="17" column="72" />
+        <mark key="^" line="17" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/views/redirect_rules/new.html.haml" timestamp="1496786890135">
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/models/merchant.rb" timestamp="1501712225427">
+        <mark key="'" line="255" column="78" />
+        <mark key="[" line="243" column="104" />
+        <mark key="]" line="243" column="128" />
+        <mark key="^" line="243" column="128" />
+        <mark key="." line="243" column="128" />
+      </file>
+      <file name="$USER_HOME$/Documents/FirstRails/blog/config/routes.rb" timestamp="1496772933800">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="14" />
+        <mark key="." line="17" column="14" />
+        <mark key="^" line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/views/admin/redirect_rules/new.html.haml" timestamp="1500586043736">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/spec/fabricators/redirect_rule_blacklist_fabricator.rb" timestamp="1500310682301">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/views/admin/redirect_rules/_form.html.haml" timestamp="1499364625911">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/spec/controllers/redirect_rules_controller_spec.rb" timestamp="1496956995254">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="14" column="34" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/spec/fabricators/redirect_rule_fabricator.rb" timestamp="1496956508976">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1501711610841">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/FirstRails/blog/app/controllers/comments_controller.rb" timestamp="1496773180072">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/models/redirect_rule_blacklist.rb" timestamp="1500310727176">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="1" column="46" />
+        <mark key="^" line="1" column="46" />
+        <mark key="." line="1" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons-revproc/README.md" timestamp="1501775201373">
+        <mark key="[" line="87" column="158" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/views/admin/redirect_rules/index.html.haml" timestamp="1500571798639">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/RubymineProjects/untitled/buyTransaction.rb" timestamp="1499906077153">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/controllers/admin/redirect_rules_controller.rb" timestamp="1501710979575">
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="13" column="49" />
+        <mark key="^" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+      </file>
+      <file name="$USER_HOME$/RubymineProjects/untitled/cashRegister.rb" timestamp="1497484943656">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/views/admin/merchants/titles.html.haml" timestamp="1501712326220">
+        <mark key="[" line="1" column="113" />
+        <mark key="]" line="1" column="92" />
+        <mark key="^" line="1" column="92" />
+        <mark key="." line="1" column="92" />
+      </file>
+      <file name="$USER_HOME$/Documents/FirstRails/blog/app/models/article.rb" timestamp="1496773382872">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="40" />
+        <mark key="^" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/spec/data/redirect_rules.csv" timestamp="1499374987145">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/app/serializers/redirect_rule_serializer.rb" timestamp="1496804551347">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/repos/coupons_api/config/routes.rb" timestamp="1500585416750">
+        <mark key="'" line="134" column="31" />
+        <mark key="[" line="150" column="34" />
+        <mark key="]" line="151" column="33" />
+        <mark key="^" line="151" column="33" />
+        <mark key="." line="151" column="33" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="92" column="11" filename="$USER_HOME$/Documents/repos/coupons_api/Gemfile" />
+      <jump line="5" column="2" filename="$USER_HOME$/Documents/FirstRails/blog/app/controllers/articles_controller.rb" />
+      <jump line="10" column="11" filename="$USER_HOME$/Documents/repos/coupons_api/app/controllers/redirect_rules_controller.rb" />
+      <jump line="6" column="6" filename="$USER_HOME$/Documents/repos/coupons_api/spec/controllers/redirect_rules_controller_spec.rb" />
+      <jump line="19" column="39" filename="$USER_HOME$/Documents/repos/coupons_api/spec/controllers/admin/occasions_controller_spec.rb" />
+      <jump line="5" column="59" filename="$USER_HOME$/Documents/repos/coupons_api/spec/controllers/redirect_rules_controller_spec.rb" />
+      <jump line="9" column="30" filename="$USER_HOME$/Documents/repos/coupons_api/spec/controllers/admin/redirect_rules_controller_spec.rb" />
+      <jump line="35" column="1" filename="$USER_HOME$/Documents/repos/coupons_api/spec/controllers/admin/redirect_rules_controller_spec.rb" />
+      <jump line="13" column="6" filename="$USER_HOME$/Documents/repos/coupons_api/spec/controllers/admin/redirect_rules_controller_spec.rb" />
+      <jump line="58" column="2" filename="$USER_HOME$/Documents/repos/coupons_api/spec/controllers/admin/redirect_rules_controller_spec.rb" />
+      <jump line="59" column="44" filename="$USER_HOME$/Documents/repos/coupons_api/spec/controllers/admin/redirect_rules_controller_spec.rb" />
+      <jump line="6" column="11" filename="$USER_HOME$/Documents/repos/coupons_api/spec/controllers/admin/redirect_rules_controller_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/repos/coupons_api/spec/models/tab_spec.rb" />
+      <jump line="5" column="5" filename="$USER_HOME$/Documents/repos/coupons_api/spec/models/tab_spec.rb" />
+      <jump line="68" column="36" filename="$USER_HOME$/Documents/repos/coupons_api/config/skeletor_deploy.rb" />
+      <jump line="6" column="57" filename="$USER_HOME$/Documents/repos/coupons_api/config/skeletor_deploy.rb" />
+      <jump line="48" column="37" filename="$USER_HOME$/Documents/repos/coupons_api/lib/tasks/permalink_url_mappings.rake" />
+      <jump line="116" column="53" filename="$USER_HOME$/Documents/repos/coupons_api/lib/tasks/permalink_url_mappings.rake" />
+      <jump line="164" column="42" filename="$USER_HOME$/Documents/repos/coupons_api/lib/tasks/permalink_url_mappings.rake" />
+      <jump line="5" column="30" filename="$USER_HOME$/Documents/repos/coupons_api/lib/tasks/permalink_url_mappings.rake" />
+      <jump line="28" column="68" filename="$USER_HOME$/Documents/repos/coupons_api/lib/tasks/permalink_url_mappings.rake" />
+      <jump line="43" column="35" filename="$USER_HOME$/Documents/repos/coupons_api/lib/tasks/permalink_url_mappings.rake" />
+      <jump line="75" column="29" filename="$USER_HOME$/Documents/repos/coupons_api/lib/tasks/permalink_url_mappings.rake" />
+      <jump line="13" column="39" filename="$USER_HOME$/Documents/repos/coupons_api/lib/tasks/redirect_rules.rake" />
+      <jump line="16" column="32" filename="$USER_HOME$/Documents/repos/coupons_api/lib/tasks/redirect_rules.rake" />
+      <jump line="18" column="18" filename="$USER_HOME$/Documents/repos/coupons_api/lib/tasks/redirect_rules.rake" />
+      <jump line="41" column="11" filename="$USER_HOME$/Documents/repos/coupons_api/lib/tasks/redirect_rules.rake" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/repos/coupons_api/lib/tasks/redirect_rules.rake" />
+      <jump line="3" column="17" filename="$USER_HOME$/Documents/repos/coupons_api/app/validators/redirect_rule_validator.rb" />
+      <jump line="55" column="47" filename="$USER_HOME$/Documents/repos/coupons_api/app/controllers/admin/redirect_rules_controller.rb" />
+      <jump line="13" column="25" filename="$USER_HOME$/Documents/repos/coupons_api/app/validators/redirect_rule_validator.rb" />
+      <jump line="2" column="25" filename="$USER_HOME$/Documents/repos/coupons_api/app/validators/redirect_rule_validator.rb" />
+      <jump line="18" column="38" filename="$USER_HOME$/Documents/repos/coupons_api/app/validators/redirect_rule_validator.rb" />
+      <jump line="50" column="12" filename="$USER_HOME$/Documents/repos/coupons_api/spec/controllers/admin/redirect_rules_controller_spec.rb" />
+      <jump line="5" column="35" filename="$USER_HOME$/Documents/repos/coupons_api/app/validators/redirect_rule_validator.rb" />
+      <jump line="6" column="26" filename="$USER_HOME$/Documents/repos/coupons_api/app/validators/redirect_rule_validator.rb" />
+      <jump line="4" column="28" filename="$USER_HOME$/Documents/repos/coupons_api/app/validators/redirect_rule_validator.rb" />
+      <jump line="51" column="12" filename="$USER_HOME$/Documents/repos/coupons_api/app/controllers/admin/redirect_rules_controller.rb" />
+      <jump line="1" column="15" filename="$USER_HOME$/Documents/repos/coupons_api/app/models/redirect_rule.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/repos/coupons_api/app/models/redirect_rule.rb" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/repos/coupons_api/app/models/redirect_rule.rb" />
+      <jump line="5" column="10" filename="$USER_HOME$/Documents/repos/coupons_api/app/views/admin/redirect_rules/index.html.haml" />
+      <jump line="10" column="21" filename="$USER_HOME$/Documents/repos/coupons_api/app/views/admin/redirect_rules/index.html.haml" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/repos/coupons_api/app/views/admin/_pagination_per_page_selector.haml" />
+      <jump line="128" column="10" filename="$USER_HOME$/RubymineProjects/untitled/blackjack.rb" />
+      <jump line="119" column="0" filename="$USER_HOME$/RubymineProjects/untitled/blackjack.rb" />
+      <jump line="34" column="0" filename="$USER_HOME$/RubymineProjects/untitled/blackjack.rb" />
+      <jump line="100" column="4" filename="$USER_HOME$/RubymineProjects/untitled/blackjack.rb" />
+      <jump line="628" column="0" filename="$USER_HOME$/Documents/repos/coupons_api/db/schema.rb" />
+      <jump line="373" column="25" filename="$USER_HOME$/Documents/repos/coupons_api/db/schema.rb" />
+      <jump line="303" column="38" filename="$USER_HOME$/Documents/repos/coupons_api/db/schema.rb" />
+      <jump line="457" column="0" filename="$USER_HOME$/Documents/repos/coupons_api/db/schema.rb" />
+      <jump line="567" column="51" filename="$USER_HOME$/Documents/repos/coupons_api/db/schema.rb" />
+      <jump line="470" column="38" filename="$USER_HOME$/Documents/repos/coupons_api/db/schema.rb" />
+      <jump line="798" column="4" filename="$USER_HOME$/Documents/repos/coupons_api/db/schema.rb" />
+      <jump line="60" column="17" filename="$USER_HOME$/Documents/repos/coupons_api/spec/models/redirect_rule_spec.rb" />
+      <jump line="82" column="30" filename="$USER_HOME$/Documents/repos/coupons_api/spec/models/redirect_rule_spec.rb" />
+      <jump line="50" column="1" filename="$USER_HOME$/Documents/repos/coupons_api/app/models/redirect_rule.rb" />
+      <jump line="63" column="7" filename="$USER_HOME$/Documents/repos/coupons_api/app/models/redirect_rule.rb" />
+      <jump line="47" column="22" filename="$USER_HOME$/Documents/repos/coupons_api/app/models/redirect_rule.rb" />
+      <jump line="68" column="20" filename="$USER_HOME$/Documents/repos/coupons_api/config/routes.rb" />
+      <jump line="82" column="15" filename="$USER_HOME$/Documents/repos/coupons_api/config/routes.rb" />
+      <jump line="99" column="24" filename="$USER_HOME$/Documents/repos/coupons_api/config/routes.rb" />
+      <jump line="102" column="69" filename="$USER_HOME$/Documents/repos/coupons_api/config/routes.rb" />
+      <jump line="103" column="65" filename="$USER_HOME$/Documents/repos/coupons_api/config/routes.rb" />
+      <jump line="114" column="19" filename="$USER_HOME$/Documents/repos/coupons_api/config/routes.rb" />
+      <jump line="119" column="19" filename="$USER_HOME$/Documents/repos/coupons_api/config/routes.rb" />
+      <jump line="122" column="15" filename="$USER_HOME$/Documents/repos/coupons_api/config/routes.rb" />
+      <jump line="123" column="36" filename="$USER_HOME$/Documents/repos/coupons_api/config/routes.rb" />
+      <jump line="131" column="9" filename="$USER_HOME$/Documents/repos/coupons_api/config/routes.rb" />
+      <jump line="132" column="10" filename="$USER_HOME$/Documents/repos/coupons_api/config/routes.rb" />
+      <jump line="134" column="31" filename="$USER_HOME$/Documents/repos/coupons_api/config/routes.rb" />
+      <jump line="255" column="78" filename="$USER_HOME$/Documents/repos/coupons_api/app/models/merchant.rb" />
+      <jump line="331" column="56" filename="$USER_HOME$/Documents/repos/coupons_api/lib/tasks/merchants.rake" />
+      <jump line="286" column="8" filename="$USER_HOME$/Documents/repos/coupons_api/spec/controllers/admin/merchants_controller_spec.rb" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YGBgCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IHx8ICJVUyI=</text>
+      </register>
+      <register name="/" type="4">
+        <text>outputs</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KGFzc2lnbnMoOnJlZGlyZWN0UnVsZXMpKS50byBlcShbcmVkaXJlY3RfcnVsZV9CLCByZWRpcmVjdF9ydWxlX0EsIHJlZGlyZWN0X3J1bGVdKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">YGBgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">YGBgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmVkaXJlY3RfcnVsZVs6dXBkYXRlZF9hdF0gPSBUaW1lLm5ldygyMDAwLCAxLCAxLCAxMCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KGFzc2lnbnMoOnJlZGlyZWN0UnVsZXMpKS50byBlcShbcmVkaXJlY3RfcnVsZSwgcmVkaXJlY3RfcnVsZV9BLCByZWRpcmVjdF9ydWxlX0JdKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">YGBgCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Y2FwICR7REFUQUNFTlRFUn06JHtFTlZJUk9OTUVOVH0gbG9nYm9vazpjcmVhdGU6ZGVwbG95IFNUQVJUX1RJTUU9eXl5eS1tbS1kZFRoaDptbTpzcyBWRVJTSU9OPSR7VkVSU0lPTn0gVFlQRT0ke3JlbGVhc2Uvc25hcHNob3R9Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>outputs</last-search>
+      <last-offset />
+      <last-pattern>outputs</last-pattern>
+      <last-replace>key</last-replace>
+      <last-substitute>prop</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>libv8</entry>
+        <entry encoding="base64">XDwnXD4=</entry>
+        <entry>B</entry>
+        <entry>&quot;</entry>
+        <entry>lib</entry>
+        <entry>environment</entry>
+        <entry>+</entry>
+        <entry>from</entry>
+        <entry>nextUrl</entry>
+        <entry>curren_p</entry>
+        <entry>prop</entry>
+        <entry>self[:</entry>
+        <entry>mercahnt</entry>
+        <entry>merchant</entry>
+        <entry>ouptpus</entry>
+        <entry>outputs</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q!</entry>
+        <entry>s/&quot;/'/g</entry>
+        <entry>%s/&quot;/'/g</entry>
+        <entry>ww</entry>
+        <entry>s/prop/key</entry>
+        <entry>s/prop/key/g</entry>
+        <entry>%s/prop/key/g</entry>
+        <entry>ew</entry>
+        <entry>e</entry>
+        <entry>s</entry>
+        <entry>:w</entry>
+        <entry>Lw</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>

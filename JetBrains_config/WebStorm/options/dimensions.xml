@@ -1,0 +1,57 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.2880.1800@192dpi" x="1438" y="482" />
+    <location key="SettingsEditor.0.0.2880.1800@192dpi" x="410" y="278" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.2880.1800@192dpi" x="616" y="222" />
+    <location key="VCS.ChangeListViewerDialog.0.0.2880.1800@192dpi" x="862" y="42" />
+    <location key="find.popup.0.0.2880.1800@192dpi" x="800" y="230" />
+    <location key="find.popup.-655.-1440.2560.1440" x="186" y="-804" />
+    <location key="SettingsEditor.-655.-1440.2560.1440" x="114" y="-1058" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.-655.-1440.2560.1440" x="89" y="-1074" />
+    <location key="EditFileWatcherDialog.-655.-1440.2560.1440" x="307" y="-975" />
+    <location key="ReplaceDuplicatesPrompt.-655.-1440.2560.1440" x="118" y="-796" />
+    <location key="#xdebugger.evaluate.-655.-1440.2560.1440" x="499" y="-681" />
+    <location key="#xdebugger.XInspectDialog.-655.-1440.2560.1440" x="527" y="-945" />
+    <location key="VCS.ChangeListViewerDialog.-655.-1440.2560.1440" x="332" y="-994" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2880.1800@192dpi" x="368" y="222" />
+    <location key="EditFileWatcherDialog.0.0.2880.1800@192dpi" x="804" y="390" />
+    <location key="CommitChangelistDialog2.0.0.2880.1800@192dpi" x="658" y="140" />
+    <location key="#Plugins.0.0.2880.1800@192dpi" x="640" y="228" />
+    <location key="#Browse_Repositories.0.0.2880.1800@192dpi" x="616" y="222" />
+    <location key="EditParametersPopupWindow.0.0.2880.1800@192dpi" x="1012" y="650" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.2880.1800@192dpi" x="918" y="510" />
+    <location key="export.test.results.0.0.2880.1800@192dpi" x="1026" y="572" />
+    <location key="#test.0.0.2880.1800@192dpi" x="798" y="266" />
+    <size key="find.popup.0.0.2880.1800@192dpi" width="1740" height="1260" />
+    <size key="find.popup.-655.-1440.2560.1440" width="870" height="630" />
+    <size key="GridCell.Tab.0.left.-655.-1440.2560.1440" width="2518" height="367" />
+    <size key="GridCell.Tab.0.center.-655.-1440.2560.1440" width="2518" height="367" />
+    <size key="GridCell.Tab.0.right.-655.-1440.2560.1440" width="2518" height="367" />
+    <size key="GridCell.Tab.0.bottom.-655.-1440.2560.1440" width="2518" height="367" />
+    <size key="GridCell.Tab.1.left.-655.-1440.2560.1440" width="2518" height="424" />
+    <size key="GridCell.Tab.1.center.-655.-1440.2560.1440" width="2518" height="424" />
+    <size key="GridCell.Tab.1.right.-655.-1440.2560.1440" width="2518" height="424" />
+    <size key="GridCell.Tab.1.bottom.-655.-1440.2560.1440" width="2518" height="424" />
+    <size key="GridCell.Tab.2.left.-655.-1440.2560.1440" width="2518" height="424" />
+    <size key="GridCell.Tab.2.center.-655.-1440.2560.1440" width="2518" height="424" />
+    <size key="GridCell.Tab.2.right.-655.-1440.2560.1440" width="2518" height="424" />
+    <size key="GridCell.Tab.2.bottom.-655.-1440.2560.1440" width="2518" height="424" />
+    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.1.left.0.0.2880.1800@192dpi" width="2796" height="594" />
+    <size key="GridCell.Tab.1.center.0.0.2880.1800@192dpi" width="2796" height="594" />
+    <size key="GridCell.Tab.1.right.0.0.2880.1800@192dpi" width="2796" height="594" />
+    <size key="GridCell.Tab.1.bottom.0.0.2880.1800@192dpi" width="2796" height="594" />
+    <size key="#xdebugger.XInspectDialog.-655.-1440.2560.1440" width="673" height="703" />
+    <size key="GridCell.Tab.2.left.0.0.2880.1800@192dpi" width="2796" height="594" />
+    <size key="GridCell.Tab.2.center.0.0.2880.1800@192dpi" width="2796" height="594" />
+    <size key="GridCell.Tab.2.right.0.0.2880.1800@192dpi" width="2796" height="594" />
+    <size key="GridCell.Tab.2.bottom.0.0.2880.1800@192dpi" width="2796" height="594" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2518" height="256" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2518" height="256" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2518" height="256" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2518" height="256" />
+  </component>
+</application>

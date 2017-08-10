@@ -1,0 +1,85 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/repos/release-automator" />
+        <option value="$USER_HOME$/Documents/repos/barterever" />
+        <option value="$USER_HOME$/Documents/repos/tvinder-workshop-two" />
+        <option value="$USER_HOME$/Documents/repos/coupons-front-end" />
+        <option value="$USER_HOME$/Documents/repos/itier-groupon-v2-coupons" />
+        <option value="$USER_HOME$/Documents/repos/itier-example" />
+      </list>
+    </option>
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/repos/barterever">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-171.4694.29" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1502381056306" />
+              <option name="buildTimestamp" value="1496849110198" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/repos/coupons-front-end">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-171.4694.29" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1501301337037" />
+              <option name="buildTimestamp" value="1496849154179" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/repos/itier-example">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-171.4424.63" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1497381089761" />
+              <option name="buildTimestamp" value="1494940982093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/repos/itier-groupon-v2-coupons">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-171.4424.63" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1497639116469" />
+              <option name="buildTimestamp" value="1494940987144" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/repos/release-automator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-171.4694.29" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1502381065997" />
+              <option name="buildTimestamp" value="1496849110198" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/repos/tvinder-workshop-two">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-171.4694.29" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1502234700171" />
+              <option name="buildTimestamp" value="1496849158363" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents/repos" />
+  </component>
+</application>

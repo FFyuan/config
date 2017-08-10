@@ -1,0 +1,67 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/repos/coupons-revproc" />
+        <option value="$USER_HOME$/Documents/repos/coupons_api" />
+        <option value="$USER_HOME$/RubymineProjects/untitled" />
+        <option value="$USER_HOME$/Documents/FirstRails/blog" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/repos/coupons-revproc" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Documents/repos/coupons-revproc" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/FirstRails/blog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="RM-171.4424.69" />
+              <option name="productionCode" value="RM" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1496697026052" />
+              <option name="buildTimestamp" value="1495451485188" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/repos/coupons-revproc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="RM-171.4424.69" />
+              <option name="productionCode" value="RM" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1501775141137" />
+              <option name="buildTimestamp" value="1495451484357" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/repos/coupons_api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="RM-171.4424.69" />
+              <option name="productionCode" value="RM" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1501775126378" />
+              <option name="buildTimestamp" value="1495451484357" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RubymineProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="RM-171.4424.69" />
+              <option name="productionCode" value="RM" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1500304132657" />
+              <option name="buildTimestamp" value="1495451506826" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/RubymineProjects" />
+  </component>
+</application>

@@ -1,0 +1,34 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Empty Project" count="1" />
+      <entry feature="CreateFile.CreateFileAction" count="14" />
+      <entry feature="OpenInBrowser.Chrome" count="6" />
+      <entry feature="StripeButton[Version_Control].shown" count="1" />
+      <entry feature="execute.JavaScriptTestRunnerJest.Debug" count="13" />
+      <entry feature="execute.JavaScriptTestRunnerJest.Run" count="1301" />
+      <entry feature="execute.NodeJSConfigurationType.Debug" count="66" />
+      <entry feature="execute.NodeJSConfigurationType.Run" count="3" />
+      <entry feature="ide.settings.Custom" count="1" />
+      <entry feature="ide.settings.File_Watchers" count="6" />
+      <entry feature="ide.settings.Font" count="2" />
+      <entry feature="ide.settings.General" count="2" />
+      <entry feature="ide.settings.HTML" count="2" />
+      <entry feature="ide.settings.JSON" count="1" />
+      <entry feature="ide.settings.JavaScript" count="6" />
+      <entry feature="ide.settings.Keymap" count="1" />
+      <entry feature="ide.settings.Libraries" count="1" />
+      <entry feature="ide.settings.Other_File_Types" count="1" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Vagrant" count="1" />
+      <entry feature="ide.settings.Vim_Emulation" count="1" />
+      <entry feature="ideaapp.started" count="43" />
+      <entry feature="json.schema.builtin.completion" count="11" />
+      <entry feature="terminal.mac" count="22" />
+      <entry feature="vcs.log.ShowAllAffectedFiles" count="2" />
+      <entry feature="vcs.log.ShowDiff" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="2" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>
