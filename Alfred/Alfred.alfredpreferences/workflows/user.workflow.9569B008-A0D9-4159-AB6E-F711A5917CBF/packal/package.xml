@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<workflow>
+  <name>Alfred-Translate</name>
+  <version>1.0</version>
+  <bundle>me.wanzy</bundle>
+  <updated>1458188858</updated>
+  <file>alfred-translate.alfredworkflow</file>
+</workflow>

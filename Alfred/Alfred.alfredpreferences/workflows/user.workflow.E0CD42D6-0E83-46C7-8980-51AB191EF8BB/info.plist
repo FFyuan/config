@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string></string>
+	<key>category</key>
+	<string>Tools</string>
+	<key>connections</key>
+	<dict/>
+	<key>createdby</key>
+	<string></string>
+	<key>description</key>
+	<string></string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Temperture Transfer</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>c2f</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Calculating...</string>
+				<key>script</key>
+				<string>result="$(echo "{query}*1.8+32" | bc)"°F
+cat &lt;&lt; EOB
+&lt;?xml version="1.0"?&gt;
+&lt;items&gt;
+  &lt;item&gt;
+    &lt;title&gt;{query}°C is $result&lt;/title&gt;
+	&lt;icon&gt;thermometer.png&lt;/icon&gt;
+  &lt;/item&gt;
+&lt;/items&gt;</string>
+				<key>title</key>
+				<string>Celsius to Fahrenheit</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>AAF53525-A1B3-4E07-9BEF-50F0BEA45823</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>f2c</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Calculating...</string>
+				<key>script</key>
+				<string>result="$(echo "({query}-32)/1.8" | bc)"°C
+cat &lt;&lt; EOB
+&lt;?xml version="1.0"?&gt;
+&lt;items&gt;
+  &lt;item&gt;
+    &lt;title&gt;{query}°F is $result&lt;/title&gt;
+	&lt;icon&gt;thermometer.png&lt;/icon&gt;
+  &lt;/item&gt;
+&lt;/items&gt;</string>
+				<key>title</key>
+				<string>Fahrenheit to Celsius</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>4EDE1E98-BEF6-40AA-8C31-8840ABCBDDE4</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict>
+		<key>4EDE1E98-BEF6-40AA-8C31-8840ABCBDDE4</key>
+		<dict>
+			<key>ypos</key>
+			<real>130</real>
+		</dict>
+		<key>AAF53525-A1B3-4E07-9BEF-50F0BEA45823</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+	</dict>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>
